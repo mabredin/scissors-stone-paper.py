@@ -1,1 +1,2 @@
-print("OFFLINE_STATE")
+print("ONLINE_STATE")
+print("Hi")
