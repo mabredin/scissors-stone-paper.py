@@ -1,5 +1,3 @@
-from tkinter import *
-
 import random
 
 options = ('scissors', 'stone', 'paper')
